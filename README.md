@@ -1,6 +1,6 @@
-# seed
+# Flutter starter app template
 
-A new Flutter project.
+A seed Flutter project with 3 stateful pages.
 
 ## Getting Started
 
